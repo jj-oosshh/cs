@@ -1,4 +1,4 @@
-#AP-FRQs-2025
+AP-FRQs-2025
 
 
 Introduction
