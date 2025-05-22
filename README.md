@@ -12,9 +12,9 @@ In this section, I reflect on my overall experience taking the AP Computer Scien
 ## Growth Opportunities
 Through this review process, I've identified these areas for continued learning:
 
-- Topic/Concept 1: [Brief description of what to improve]
-- Topic/Concept 2: [Brief description of what to improve]
-- Programming practice: [Specific practice goals]
+- Topic/Concept 1: 2D arrays
+- Topic/Concept 2: Using loops for arrays
+- Programming practice: I hope to understand 2D arrays better
 
 ## Resources
 Resources I found helpful during my exam preparation and review:
