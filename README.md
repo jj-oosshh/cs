@@ -4,10 +4,10 @@ This repository contains my solutions and reflections for the AP Computer Scienc
 ## Exam Experience
 In this section, I reflect on my overall experience taking the AP Computer Science exam:
 
-- My preparation strategy for the exam included...
-- The most challenging aspects of the exam were...
-- Time management techniques that worked well for me...
-- Mental strategies I used when encountering difficult questions...
+- My preparation strategy for the exam included watching videos and doing problems
+- The most challenging aspects of the exam were the mcq
+- Time management techniques that worked well for me go back to questions I couldn't do after doing the other questions
+- Mental strategies I used when encountering difficult questions relax and read it clearly to try to understand
 
 ## Growth Opportunities
 Through this review process, I've identified these areas for continued learning:
