@@ -1,7 +1,7 @@
 ## Question 4 Analysis
 ### Sum or Same
 
-This section contains my analysis of Question 2 (Class Design):
+This section contains my analysis of Question 4 (Class Design):
 
 #### My initial approach during the exam:
 - Ideas here
